@@ -1,0 +1,11 @@
+{
+	"name": "module_resolve",
+	"version": "0.1.0",
+	"description": "Adds module-relative 'resolve' method to the Module class",
+	"main": "./resolve",
+	"author": "Liam Doherty",
+	"dependencies" : {},
+	"engines": {
+		 "node" : "0.6"
+	}
+}
